@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hanoi(汉诺)塔问题--将64盘子A到C借助B(递归)", "Hanoi(汉诺)塔问题--将64盘子A到C借助B(递归).vcxproj", "{05C03BA6-9F09-4962-9CDD-7A2701A84758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C03BA6-9F09-4962-9CDD-7A2701A84758}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05C03BA6-9F09-4962-9CDD-7A2701A84758}.Debug|Win32.Build.0 = Debug|Win32
+		{05C03BA6-9F09-4962-9CDD-7A2701A84758}.Release|Win32.ActiveCfg = Release|Win32
+		{05C03BA6-9F09-4962-9CDD-7A2701A84758}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
