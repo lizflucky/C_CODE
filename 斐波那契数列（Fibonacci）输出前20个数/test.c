@@ -9,7 +9,7 @@ int main()
 	for(i=0;i<20;i++)
 	{
 		if(i%5==0)
-			printf("\n");//每输出五个数换行
+			printf("\n");
 		printf("%12d",a[i]);
 	}
 	printf("\n");
