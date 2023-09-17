@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "模拟登入界面", "模拟登入界面.vcxproj", "{3430B818-8AAD-4E07-A68A-C2DE6D2BEE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3430B818-8AAD-4E07-A68A-C2DE6D2BEE7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3430B818-8AAD-4E07-A68A-C2DE6D2BEE7C}.Debug|Win32.Build.0 = Debug|Win32
+		{3430B818-8AAD-4E07-A68A-C2DE6D2BEE7C}.Release|Win32.ActiveCfg = Release|Win32
+		{3430B818-8AAD-4E07-A68A-C2DE6D2BEE7C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
