@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断有几个新单词", "判断有几个新单词.vcxproj", "{C1CD5A16-D9CD-4431-B863-6703092538E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1CD5A16-D9CD-4431-B863-6703092538E4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1CD5A16-D9CD-4431-B863-6703092538E4}.Debug|Win32.Build.0 = Debug|Win32
+		{C1CD5A16-D9CD-4431-B863-6703092538E4}.Release|Win32.ActiveCfg = Release|Win32
+		{C1CD5A16-D9CD-4431-B863-6703092538E4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
