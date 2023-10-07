@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "比较三个字符串大小", "比较三个字符串大小.vcxproj", "{95239C29-6E04-46C7-B7C8-053260D6E55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95239C29-6E04-46C7-B7C8-053260D6E55B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95239C29-6E04-46C7-B7C8-053260D6E55B}.Debug|Win32.Build.0 = Debug|Win32
+		{95239C29-6E04-46C7-B7C8-053260D6E55B}.Release|Win32.ActiveCfg = Release|Win32
+		{95239C29-6E04-46C7-B7C8-053260D6E55B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
